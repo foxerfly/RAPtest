@@ -10,7 +10,7 @@ import org.eclipse.swt.widgets.Label;
 import org.eclipse.swt.widgets.Shell;
 
 public class EntryPoint implements IEntryPoint {
-//test
+
 	@Override
 	public int createUI() {
 		// TODO Auto-generated method stub
